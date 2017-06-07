@@ -1,6 +1,6 @@
 ## Scrape Repo links from General Assembly DSI-SYD-2
 #### Developed by : Srikanta Patra
-##### Thanks to Joel Harlander for providing the idea to scrape the DSI repo   :).
+##### Thanks to Joel Harlander for providing an idea to scrape DSI repo   :).
 
 * The code will scrape all available class lessons repo for DSI-SYD-2 git hub area and out put a git clone command for each link.
 * You can copy the links and put into a file e.g. all_DSI_repo.sh (with bash shell #!/bin/bash at the beginning of the file)
